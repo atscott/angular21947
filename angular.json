@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-bug-v10"
+    }
+  },
+  "defaultProject": "angular-bug-v10",
+  "cli": {
+    "analytics": "8ae44ae9-1465-42ed-84db-ec6190d2896a"
+  }
 }
